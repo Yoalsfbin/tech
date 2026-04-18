@@ -11,6 +11,10 @@ Maintain consistency for technical notes and follow-up discussions.
 5. Keep English and Japanese sections aligned in meaning when both are included.
 6. Use Q&A format for follow-up comments when appropriate.
 
+## Style
+- Japanese sections should use concise declarative statements (no polite form).
+- Prefer definitive endings such as 「〜である」「〜となる」「〜できる」.
+
 ## Comment format
 Q. ...
 A. ...
